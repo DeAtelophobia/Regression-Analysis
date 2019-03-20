@@ -1,0 +1,10 @@
+---
+title: "Final Project"
+author: "De Lu"
+date: "March 1, 2019"
+output: pdf_document
+---
+
+```{r}
+Data = read_xlsx("C:/Users/De_Lu/Desktop/2019 Winter/STAT 350 Regression Analysis/Residential-Building-Data-Set.xlsx")
+```
